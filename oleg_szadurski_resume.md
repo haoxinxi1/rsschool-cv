@@ -5,11 +5,9 @@
 
 ## Contact Information
 
-| | |
-|---|---|
-| 📧 Email | *(not provided)* |
-| 🐙 GitHub | *(not provided)* |
-| 📍 Location | Kokshetau, Kazakhstan |
+| Email 
+| GitHub
+| Location Kokshetau, Kazakhstan
 
 ---
 
