@@ -1,5 +1,5 @@
 # Oleg Szadurski
-**Junior Frontend Developer**
+**Junior Software Developer**
 
 ---
 
